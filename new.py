@@ -4,6 +4,7 @@ def add(a, b):
 def sub(a, b):
     return a-b
 
-print(add(2, 3))
+def multiply(a, b):
+    return a*b
 
-# this is a comment
+print(add(2, 3))
